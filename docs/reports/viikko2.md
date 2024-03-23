@@ -1,0 +1,3 @@
+# Viikkoraportti 2
+
+Toisella viikolla toipuen edellisen viikon sairastelusta projekti luotu Mavenilla. Lisäksi jatkoin tutustumista algoritmiin ja erityisesti Trie-rakenteeseen, joka toteutettu geneerisesti `src/main/java/vhiltzu/lib` kuten myös siihen liittyvä Trie toteutus merkkijonoille `StringTrie.java`. Koska kyseinen tietorakenne on ollut itselleni uusi niin toteutus näin aluksi on hyvin paljon Wikipedian pseudokoodin mukainen. Damerau–Levenshtein algoritmia olisi tarkoitus toteuttaa vielä tällä viikolla. Levenshteinin algoritmista (jostain versiosta) on jonkin verran kokemusta, joten pitäisi olla jokseenkin helpohko toteuttaa. Joka tapauksessa ajankäytön suhteen testaukset toteutetaan arviolta pääsiäispyhinä kuten myös muu suurempi työmäärä.
